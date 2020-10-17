@@ -2,4 +2,4 @@
 
 My first clone coding project!
 
-HTML & CSS are so much fun
+Cloning Kakaotalk, a populer chat service app
